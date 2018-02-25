@@ -38,5 +38,9 @@
 #### 2月
 - 《SRE-google运维解密》
 - 继续《The Physics of Quantum Information》
+- 重看《Bitcoin and Cryptocurrency Technologies》
+- 《混乱》
+
+#### 3月
 - 《博弈论》
-- 《偷影子的人》
+
