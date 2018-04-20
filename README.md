@@ -36,11 +36,22 @@
 - 重看《鸟哥的私房菜》
 
 #### 2月
-- 《SRE-google运维解密》
+- 《SRE-google运维解密》*
 - 继续《The Physics of Quantum Information》
 - 重看《Bitcoin and Cryptocurrency Technologies》
 - 《混乱》
 
 #### 3月
 - 《博弈论》
+
+#### 4月
+- 《deep work》
+- 《启示录 打造用户喜爱的产品》
+- 《quantum computation and quantum information》*
+- 《经济学原理 微观经济学》* 续
+- 《经济学原理 宏观经济学》* 续
+
+#### 5月
+- 《经济学原理 微观经济学》* 续
+- 《经济学原理 宏观经济学》* 续
 
