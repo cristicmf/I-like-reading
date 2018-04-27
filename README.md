@@ -50,6 +50,7 @@
 - 《quantum computation and quantum information》*
 - 《经济学原理 微观经济学》* 续
 - 《经济学原理 宏观经济学》* 续
+- 《别闹了 费曼先生》
 
 #### 5月
 - 《经济学原理 微观经济学》* 续
