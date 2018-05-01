@@ -43,6 +43,7 @@
 
 #### 3月
 - 《博弈论》
+  - [Distributed Nash Equilibrium Seeking by A Consensus Based Approach](https://arxiv.org/pdf/1602.00771.pdf)
 
 #### 4月
 - 《deep work》
@@ -53,6 +54,8 @@
 - 《别闹了 费曼先生》
 
 #### 5月
+- 《失控》
+- 《quantum computation and quantum information》*
 - 《经济学原理 微观经济学》* 续
 - 《经济学原理 宏观经济学》* 续
 - 《社会生物学：新的综合》
