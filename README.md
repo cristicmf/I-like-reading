@@ -65,4 +65,6 @@
 - 《English Collocations in use》
 - 《向上管理》
 - 《穷查理宝典》重看
+- 《自私的基因》
+- 《分布式系统》
 
