@@ -63,4 +63,6 @@
 
 #### 6月
 - 《English Collocations in use》
+- 《向上管理》
+- 《穷查理宝典》重看
 
