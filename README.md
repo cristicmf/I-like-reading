@@ -89,6 +89,7 @@
 - 《图解CIO工作指南》
 - 《投资最重要的事》
 - 《乌合之众》重看
+- 《逻辑哲学论》
 
 #### 12月
 - 《International Library of Psychology Philosophy and Scientific Method》
