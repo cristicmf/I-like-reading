@@ -92,4 +92,8 @@
 - 《逻辑哲学论》
 
 #### 12月
+- 《on the road》
 - 《International Library of Psychology Philosophy and Scientific Method》
+- 《天才的回声》
+- 《风吹江南》
+- 《逻辑哲学论》
