@@ -73,6 +73,7 @@
 
 #### 7月
 - 《复盘》
+项目结束的时候，想找一下复盘的策略，然后发现了这本书，虽然里面内容是有些杂乱，但是还是有一定的指导意义，从完整的流程和具体实现的步骤，以及注意事项都是很值得借鉴。
 
 #### 8月
 - 《商业》
@@ -93,6 +94,7 @@
 
 #### 12月
 - 《on the road》
+
 - 《International Library of Psychology Philosophy and Scientific Method》
 - 《天才的回声》
 - 《风吹江南》
