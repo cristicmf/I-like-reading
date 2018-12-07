@@ -41,11 +41,11 @@
 - 《SRE-google运维解密》*
 - 继续《The Physics of Quantum Information》
 - 重看《Bitcoin and Cryptocurrency Technologies》
-- 《混乱》
+- 《混乱》 
+Q哥推荐
 
 #### 3月
 - 《博弈论》
-  - [Distributed Nash Equilibrium Seeking by A Consensus Based Approach](https://arxiv.org/pdf/1602.00771.pdf)
 
 #### 4月
 - 《deep work》
@@ -54,9 +54,10 @@
 - 《经济学原理 微观经济学》* 续
 - 《经济学原理 宏观经济学》* 续
 - 《别闹了 费曼先生》
-
+喜欢量子，所以喜欢天才费曼先生
 #### 5月
 - 《失控》
+Q哥推荐
 - 《密码学应用》
 - 《quantum computation and quantum information》*
 - 《经济学原理 微观经济学》* 续
