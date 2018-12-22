@@ -106,4 +106,5 @@ J哥推荐
 J哥推荐
 - 《Streaming Systems: The What, Where, When, & How of Large-Scale Data Processing》
 - 《文明之光》
-- 《造房子》
+- 《中国哲学简史》
+- 《美的历程》
