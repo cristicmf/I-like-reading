@@ -104,5 +104,6 @@ J哥推荐
 - 《风吹江南》
 - 《逻辑哲学论》
 J哥推荐
+- 《Streaming Systems: The What, Where, When, & How of Large-Scale Data Processing》
 - 《文明之光》
 - 《造房子》
