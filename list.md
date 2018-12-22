@@ -5,8 +5,6 @@
 
 ```
 彼得·林奇 《学以致富》 《战胜华尔街》
-查理·芒格 《穷查理宝典》
-本杰明·格雷厄姆 《聪明的投资者》《证券分析》
 菲利普·费雪 《怎样选择成长股》
 杰克·韦尔奇 《自传》 《赢》
 约翰·博格《长赢投资》 《共同基金常识》
@@ -20,9 +18,17 @@
 弗雷德·施维德 《客户的游艇在哪里》
 杰夫·贝佐斯
 ```
+---
 
+分布式相关
+
+- Big Data: Principles and best practices of scalable realtime data systems 1st Edition
+- [How to beat the CAP theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)
+- [Bayesian Rose Trees](http://www.gatsby.ucl.ac.uk/~heller/brt.pdf)
+- [The Dataflow Model](https://ai.google/research/pubs/pub43864)
 
 ---
-code
+
+中间件相关
 - [rocketmq](https://github.com/apache/rocketmq)
 
