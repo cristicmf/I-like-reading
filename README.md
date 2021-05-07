@@ -12,6 +12,7 @@
 
 #### 5月 
 - [如何学习：学习困难科目的实用思维方法](https://www.coursera.org/learn/learning-how-to-learn)
+- 《亲密关系》
 
 
 ## 你好，2020
